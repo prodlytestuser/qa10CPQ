@@ -1,0 +1,6 @@
+"Guid","SBQQ__Field__c","SBQQ__Formula__c","SBQQ__Order__c","SBQQ__Rule__c","SBQQ__SourceLookupField__c","SBQQ__TargetObject__c","SBQQ__ValueField__c","SBQQ__Value__c"
+e07f02da-ca26-40d7-90db-871d020c465b,ApprovalLevel__c,"IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >=  SBQQ__Product__r.Approval_Threshold__c*3, 3, 
+
+IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >=  SBQQ__Product__r.Approval_Threshold__c*2, 2,
+ 
+IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >=  SBQQ__Product__r.Approval_Threshold__c*1, 1,0)))",1.0,2cfd07ca-df88-4a12-964b-996db9f9edff,"#N/A",Quote Line,"#N/A","#N/A"
