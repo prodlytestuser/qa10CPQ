@@ -1,3 +1,4 @@
 "Guid","Name","SBQQ__AggregationScope__c","SBQQ__ConstraintField__c","SBQQ__CrossOrders__c","SBQQ__CrossProducts__c","SBQQ__Description__c","SBQQ__DiscountUnit__c","SBQQ__ExcludedPricebookIds__c","SBQQ__IncludeBundledProducts__c","SBQQ__OriginalDiscountSchedule__c","SBQQ__OverrideBehavior__c","SBQQ__PriceScale__c","SBQQ__Pricebook__c","SBQQ__Product__c","SBQQ__QuoteLineQuantityField__c","SBQQ__Type__c","SBQQ__UsePriceForAmount__c","SBQQ__UserDefined__c"
 09ac3f9f-702a-4577-9afa-d0bbb9f652ac,Turbine Discount Schedule,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
-1a2567f0-3d96-4b0a-8ef7-d6f8a35c0212,Schedule 2,Quote,"#N/A",false,false,"#N/A",Amount,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Slab,false,false
+1a2567f0-3d96-4b0a-8ef7-d6f8a35c0212,Schedule 23333,Quote,"#N/A",false,false,"#N/A",Amount,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Slab,false,false
+8c5ba32e-b8e2-47e7-834f-8b852e828210,Schedule 3,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
